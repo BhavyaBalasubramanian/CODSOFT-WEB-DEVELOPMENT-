@@ -1,0 +1,7 @@
+CONTEXT OF THE PROJECT ::
+
+fully responsive website
+dark theme switcher
+hamburger menu
+lightbox image gallery
+scroll-to-top button.
